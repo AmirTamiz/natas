@@ -1,0 +1,3 @@
+this tag is vulnerable :
+<input type="hidden" name="filename" value="1jof29oo1g.jpg" /> 
+<!-- change format to php after upload shell --!>
